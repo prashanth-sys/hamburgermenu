@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.nav-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 9px;
+}
+.icon {
+  font-size: 30px;
+}
+.logo {
+  width: 5%;
+}
